@@ -144,7 +144,7 @@ def test_2del_admin():
                 print('---------------------------')
 
 
-test_1add_admin()
-test_2del_admin()
+# test_1add_admin()
+# test_2del_admin()
    
                 
