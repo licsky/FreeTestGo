@@ -36,3 +36,6 @@ host='192.168.0.1'
 sql = "SELECT id,user_name FROM t_admin  where user_name like 'jinte111st'"
 print(ConnectData(host,sql))
 # print("返回值是："+ConnectData(host,sql)[1])
+
+
+#
